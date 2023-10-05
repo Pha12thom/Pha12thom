@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Pha12thom/Pha12thom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,4 +17,4 @@ LinkedIn:
 Twitter:
 - 😄 Pronouns: chilling legends 
 - ⚡ Fun fact: we Can  code planet Earth 😊
--->
+![Screenshot_20230617-200203 (2)](https://github.com/Pha12thom/Pha12thom/assets/122834673/a9d1875f-a119-4793-b855-4e362a5db655)
