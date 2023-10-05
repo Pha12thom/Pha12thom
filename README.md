@@ -75,8 +75,8 @@
 </p>
 
 - 📫 Reach me through: 
-- phone: +254112155880
-- email: geofreymilugo@gmail.com / milugogeofrey0@gmail.com
+- phone: +254112155880📞
+- email: geofreymilugo@gmail.com📧
 - LinkedIn: https://www.linkedin.com/in/geofrey-milugo-b33902244
 - Twitter: https://twitter.com/milugo_g?t=iabQESOrWSUFe17mBZsx1Q&s=09
 - 😄 fav_word: *chilling code legend.*
