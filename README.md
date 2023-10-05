@@ -21,10 +21,10 @@
   <a href="https://www.linkedin.com/in/geofrey-milugo-msu27345">
     <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
   </a>
-  <a href="">
+  <a href="https://twitter.com/milugo_g?t=X9CYWafydJ5pZxqOPBBv3g&s=09">
     <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
   </a>
-  <a href="https://www.facebook.com/vishnu.sivan.754">
+  <a href="https://www.facebook.com/Milugo Geofrey">
     <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook">
   </a>
 </p>
