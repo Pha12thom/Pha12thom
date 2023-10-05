@@ -1,5 +1,6 @@
 
-### Hi there 👋 I'm Milugo Geofrey 😊 The Pha12thom From Maseno
+### Hi there 👋 I'm Milugo Geofrey
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pha12thom&show_icons=true&theme=theme_name)
 <p align="left">
   <a href="https://github.com/pha12thom/pha12thom">
     <img src="![Uploading e0a7ad5e-6dee-42cd-ba78-83a5a1f4a65d.png…]()
