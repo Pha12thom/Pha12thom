@@ -5,7 +5,8 @@
 
 
 - 🌱 I’m currently learning mathematics and computer science at Maseno university, Software engineering at ALX and acting as ALX-fellowship ambassador.
-- 👯 I’m looking to collaborate on Hackathon challenges and full stack developments.  
+- 👯 I’m looking to collaborate on Hackathon challenges and full stack developments. using following languages 😊
+- ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pha12thom&layout=compact&theme=theme)
 - 🤔 I’m looking for help with finding remote  software engineering tasks and other career opportunities to boost my skills.
 - 💬 Ask me about Software engineering, cloud computing, Microsoft azure, ALX and API'S.
   ![images (45)](https://github.com/Pha12thom/Pha12thom/assets/122834673/36a5967a-9bbd-4020-9c1e-849a4ca60bad)
