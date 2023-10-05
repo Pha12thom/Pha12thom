@@ -33,7 +33,7 @@
 </p>
 
 - 🔭 I’m currently working on Full stack software engineering, Cloud computing, Microsoft azure and generative AI
- ![9e879c27-df0c-4f74-a623-2e79086eaed0](https://github.com/Pha12thom/Pha12thom/assets/122834673/9a467bdd-a359-490d-8638-aa9198f6e40c)
+- ![Github Trophy](https://github-profile-trophy.vercel.app/?username=pha12thom&theme=discord)![9e879c27-df0c-4f74-a623-2e79086eaed0](https://github.com/Pha12thom/Pha12thom/assets/122834673/9a467bdd-a359-490d-8638-aa9198f6e40c)
 
 
 - 🌱 I’m currently learning mathematics and computer science at Maseno university, Software engineering at ALX and acting as ALX-fellowship ambassador.
