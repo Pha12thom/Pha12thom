@@ -84,4 +84,4 @@
 <a href="TARGET_LINK">
     <img alt="ALTERNATIVE_TEXT" src="https://img.shields.io/badge/MESSAGE1-MESSAGE2-lightgrey?color=COLOR&logo=PLATFORM_NAME" />
 </a>
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pha12thom&theme=theme_name)
+![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pha12thom&layout=compact&theme=theme_name)
