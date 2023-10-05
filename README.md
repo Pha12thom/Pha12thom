@@ -1,7 +1,9 @@
+
 ### Hi there 👋 I'm Milugo Geofrey 😊 The Pha12thom From Maseno
 <p align="left">
   <a href="https://github.com/pha12thom/pha12thom">
-    <img src="https://komarev.com/ghpvc/?username=codemaker2015&color=red" alt="profile views" />
+    <img src="![Uploading e0a7ad5e-6dee-42cd-ba78-83a5a1f4a65d.png…]()
+"profile views" />
   </a>
   <a href="https://github.com/pha12thom/pha12thom">
     <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
