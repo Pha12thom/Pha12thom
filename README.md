@@ -3,7 +3,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pha12thom&show_icons=true&theme=black)
 <p align="left">
   <a href="https://github.com/pha12thom/pha12thom">
-    <img src="![Uploading e0a7ad5e-6dee-42cd-ba78-83a5a1f4a65d.png…]()
+    <img src="![e0a7ad5e-6dee-42cd-ba78-83a5a1f4a65d](https://github.com/Pha12thom/Pha12thom/assets/122834673/b89c2b92-b277-4364-bbdb-ed93af150bd3)
 "profile views" />
   </a>
   <a href="https://github.com/pha12thom/pha12thom">
@@ -33,7 +33,8 @@
 </p>
 
 - 🔭 I’m currently working on Full stack software engineering, Cloud computing, Microsoft azure and generative AI
-- ![Github Trophy](https://github-profile-trophy.vercel.app/?username=pha12thom&theme=discord)![9e879c27-df0c-4f74-a623-2e79086eaed0](https://github.com/Pha12thom/Pha12thom/assets/122834673/9a467bdd-a359-490d-8638-aa9198f6e40c)
+- ![Github Trophy](https://github-profile-trophy.vercel.app/?username=pha12thom&theme=discord)
+![e0a7ad5e-6dee-42cd-ba78-83a5a1f4a65d](https://github.com/Pha12thom/Pha12thom/assets/122834673/bb6eadd7-b14a-488f-b27f-5848dd51333b)
 
 
 - 🌱 I’m currently learning mathematics and computer science at Maseno university, Software engineering at ALX and acting as ALX-fellowship ambassador.
