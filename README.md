@@ -6,8 +6,8 @@
 -social handles👇🏿
 <p align="left">
   <a href="https://github.com/pha12thom/pha12thom">
-    <img src="![e0a7ad5e-6dee-42cd-ba78-83a5a1f4a65d](https://github.com/Pha12thom/Pha12thom/assets/122834673/b89c2b92-b277-4364-bbdb-ed93af150bd3)
-"profile views" />
+    <img src="![images (8)](https://github.com/Pha12thom/Pha12thom/assets/122834673/d2042085-ac40-43ba-bf24-8002139892f2)
+" />
   </a>
   <a href="https://github.com/pha12thom/pha12thom">
     <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
