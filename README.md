@@ -12,7 +12,7 @@
   <a href="https://github.com/pha12thom/pha12thom">
     <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
   </a>
-  <a href="https://stackoverflow.com/users/7103882">
+  <a href="https://stackoverflow.com/users/20857937/geofrey-milugo">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7103882?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://www.hackerrank.com/codemaker2015">
@@ -43,7 +43,7 @@
 
 - 🌱 I’m currently learning mathematics and computer science at Maseno university, Software engineering at ALX and acting as ALX-fellowship ambassador.
 - 👯 I’m looking to collaborate on Hackathon challenges and full stack developments. 😊
-- Commonly used languages 👇🏿
+- Commonly used languages
   ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pha12thom&layout=compact&theme=blue-green)
 - 🤔 I’m looking for help with finding remote  software engineering tasks and other career opportunities to boost my skills.
 - skill stats👇🏿
