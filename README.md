@@ -1,6 +1,5 @@
 
 ### Hi there 👋 I'm Milugo Geofrey Ouma😊
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pha12thom)](https://github.com/pha12thom/github-readme-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pha12thom&show_icons=true&theme=black)
 
@@ -88,7 +87,7 @@
 - Twitter: https://twitter.com/milugo_g?t=iabQESOrWSUFe17mBZsx1Q&s=09
 - 😄 fav_word: *chilling code legend.*
   
-![pha12thom wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pha12thom&layout=compact&theme=theme_name)
+
   
 - ⚡ Fun fact: Together we Can  code planet Earth 😊
 ![Screenshot_20230617-200203 (2)](https://github.com/Pha12thom/Pha12thom/assets/122834673/a9d1875f-a119-4793-b855-4e362a5db655)
