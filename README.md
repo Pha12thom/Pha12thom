@@ -39,7 +39,7 @@
 - My GitHub achievement trophies👇🏿 
 - ![Github Trophy](https://github-profile-trophy.vercel.app/?username=pha12thom&theme=discord)
 ![e0a7ad5e-6dee-42cd-ba78-83a5a1f4a65d](https://github.com/Pha12thom/Pha12thom/assets/122834673/bb6eadd7-b14a-488f-b27f-5848dd51333b)
-
+img[alt=bb6eadd7-b14a-488f-b27f-5848dd51333b] { height: 150px; }
 
 - 🌱 I’m currently learning mathematics and computer science at Maseno university, Software engineering at ALX and acting as ALX-fellowship ambassador.
 - 👯 I’m looking to collaborate on Hackathon challenges and full stack developments. 😊
