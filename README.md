@@ -1,5 +1,6 @@
 
 ### Hi there 👋 I'm Milugo Geofrey Ouma😊
+-social handles 👇🏿
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pha12thom&show_icons=true&theme=black)
 <p align="left">
   <a href="https://github.com/pha12thom/pha12thom">
@@ -33,12 +34,14 @@
 </p>
 
 - 🔭 I’m currently working on Full stack software engineering, Cloud computing, Microsoft azure and generative AI
+- My GitHub achievement trophies👇🏿 
 - ![Github Trophy](https://github-profile-trophy.vercel.app/?username=pha12thom&theme=discord)
 ![e0a7ad5e-6dee-42cd-ba78-83a5a1f4a65d](https://github.com/Pha12thom/Pha12thom/assets/122834673/bb6eadd7-b14a-488f-b27f-5848dd51333b)
 
 
 - 🌱 I’m currently learning mathematics and computer science at Maseno university, Software engineering at ALX and acting as ALX-fellowship ambassador.
-- 👯 I’m looking to collaborate on Hackathon challenges and full stack developments. using following languages 😊
+- 👯 I’m looking to collaborate on Hackathon challenges and full stack developments. 😊
+- my commonly used languages 👇🏿
 - [![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pha12thom&layout=compact&theme=blue-green)
 - 🤔 I’m looking for help with finding remote  software engineering tasks and other career opportunities to boost my skills.
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pha12thom&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
