@@ -15,7 +15,7 @@
   <a href="https://stackoverflow.com/users/20857937/geofrey-milugo">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7103882?color=orange&label=reputation&logo=stackoverflow">
   </a>
-  <a href="https://www.hackerrank.com/codemaker2015">
+  <a href="https://www.hackerrank.com/geofreymilugo">
     <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-15+-green?color=green&logo=hackerrank">
   </a>
   <a href="https://codemaker2015.medium.com">
