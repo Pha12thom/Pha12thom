@@ -1,5 +1,6 @@
 
 ### Hi there 👋 I'm Milugo Geofrey Ouma😊
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=pha12thom&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pha12thom&show_icons=true&theme=black)
 
 -social handles👇🏿
