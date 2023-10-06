@@ -1,7 +1,8 @@
 
 ### Hi there 👋 I'm Milugo Geofrey Ouma😊
--social handles 👇🏿
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pha12thom&show_icons=true&theme=black)
+
+-social handles👇🏿
 <p align="left">
   <a href="https://github.com/pha12thom/pha12thom">
     <img src="![e0a7ad5e-6dee-42cd-ba78-83a5a1f4a65d](https://github.com/Pha12thom/Pha12thom/assets/122834673/b89c2b92-b277-4364-bbdb-ed93af150bd3)
@@ -41,7 +42,7 @@
 
 - 🌱 I’m currently learning mathematics and computer science at Maseno university, Software engineering at ALX and acting as ALX-fellowship ambassador.
 - 👯 I’m looking to collaborate on Hackathon challenges and full stack developments. 😊
-- my commonly used languages 👇🏿
+- Commonly used languages 👇🏿
 - [![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pha12thom&layout=compact&theme=blue-green)
 - 🤔 I’m looking for help with finding remote  software engineering tasks and other career opportunities to boost my skills.
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pha12thom&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
