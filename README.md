@@ -43,8 +43,9 @@
 - 🌱 I’m currently learning mathematics and computer science at Maseno university, Software engineering at ALX and acting as ALX-fellowship ambassador.
 - 👯 I’m looking to collaborate on Hackathon challenges and full stack developments. 😊
 - Commonly used languages 👇🏿
-- [![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pha12thom&layout=compact&theme=blue-green)
+  ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pha12thom&layout=compact&theme=blue-green)
 - 🤔 I’m looking for help with finding remote  software engineering tasks and other career opportunities to boost my skills.
+- skill stats👇🏿
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pha12thom&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 - 💬 Ask me about Software engineering, cloud computing, Microsoft azure, ALX and API'S.
 <p align="left">
@@ -87,7 +88,7 @@
   
 ![pha12thom wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pha12thom&layout=compact&theme=theme_name)
   
-- ⚡ Fun fact: we Can  code planet Earth 😊
+- ⚡ Fun fact: Together we Can  code planet Earth 😊
 ![Screenshot_20230617-200203 (2)](https://github.com/Pha12thom/Pha12thom/assets/122834673/a9d1875f-a119-4793-b855-4e362a5db655)
 <a href="TARGET_LINK">
     <img alt="ALTERNATIVE_TEXT" src="https://img.shields.io/badge/MESSAGE1-MESSAGE2-lightgrey?color=COLOR&logo=PLATFORM_NAME" />
