@@ -31,7 +31,7 @@
     <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
   </a>
   <a href="https://www.facebook.com/Milugo Geofrey">
-    <img alt="Facebook friends" height="100" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook">
+    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook">
   </a>
 </p>
 
