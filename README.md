@@ -41,7 +41,7 @@
 ![e0a7ad5e-6dee-42cd-ba78-83a5a1f4a65d](https://github.com/Pha12thom/Pha12thom/assets/122834673/bb6eadd7-b14a-488f-b27f-5848dd51333b)
 
 - 🌱 I’m currently learning mathematics and computer science at Maseno university, Software engineering at ALX and acting as ALX-fellowship ambassador.
-  https://user-badge.committers.top/kenya/pha12thom
+[![committers.top badge](https://user-badge.committers.top/kenya_private/pha12thom.svg)](https://user-badge.committers.top/kenya_private/pha12thom)
 - 👯 I’m looking to collaborate on Hackathon challenges and full stack developments. 😊
 - Commonly used languages
   ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pha12thom&layout=compact&theme=blue-green)
