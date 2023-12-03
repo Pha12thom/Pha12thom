@@ -86,14 +86,6 @@
 - LinkedIn: https://www.linkedin.com/in/geofrey-milugo-b33902244
 - Twitter: https://twitter.com/milugo_g?t=iabQESOrWSUFe17mBZsx1Q&s=09
 - 😄 fav_word: *chilling code legend.*
-  
-
-  
-- ⚡ Fun fact: Together we Can  code planet Earth 😊
-![Screenshot_20230617-200203 (2)](https://github.com/Pha12thom/Pha12thom/assets/122834673/a9d1875f-a119-4793-b855-4e362a5db655)
-<a href="TARGET_LINK">
-    <img alt="ALTERNATIVE_TEXT" src="https://img.shields.io/badge/MESSAGE1-MESSAGE2-lightgrey?color=COLOR&logo=PLATFORM_NAME" />
-</a>
 
 - ## 😂 Here is a random joke that'll make you laugh!
   
