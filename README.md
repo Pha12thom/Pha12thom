@@ -16,10 +16,10 @@
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7103882?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://www.hackerrank.com/geofreymilugo">
-    <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-15+-green?color=green&logo=hackerrank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-1+-green?color=green&logo=hackerrank">
   </a>
-  <a href="https://codemaker2015.medium.com">
-    <img alt="Medium" src="https://img.shields.io/badge/medium-40+-lightgrey?color=lightgrey&logo=medium">
+  <a href="https://Geofrey milugo.medium.com">
+    <img alt="Medium" src="https://img.shields.io/badge/medium-0-lightgrey?color=lightgrey&logo=medium">
   </a>
   <a href="https://github.com/pha12thom?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/pha12thom?color=yellow&logo=github">
@@ -31,7 +31,7 @@
     <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
   </a>
   <a href="https://www.facebook.com/Milugo Geofrey">
-    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook">
+    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-50-blue?color=yellowgreen&logo=facebook">
   </a>
 </p>
 
