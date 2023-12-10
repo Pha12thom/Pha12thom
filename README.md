@@ -45,8 +45,8 @@
 
 - 👯 I’m looking to collaborate on Hackathon challenges and full stack developments. Below are my Commonly used languages
 -  ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pha12thom&layout=compact&theme=blue-green)
-- 🤔 I’m looking for help with finding remote  software engineering tasks and other career opportunities to boost my skills.
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pha12thom&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+- 🤔 I’m looking for help with finding remote  software engineering tasks and other career opportunities to boost my skills. Below is my github contributions stat
+- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pha12thom&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 - 💬 Ask me about Software engineering, cloud computing, Microsoft azure, ALX and API'S.
 
 
