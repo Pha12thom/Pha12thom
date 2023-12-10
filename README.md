@@ -1,6 +1,7 @@
 
 ### Hi there 👋 I'm Milugo Geofrey Ouma😊
 
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pha12thom&show_icons=true&theme=black)
 
 -social handles👇🏿
@@ -40,7 +41,7 @@
 - ![Github Trophy](https://github-profile-trophy.vercel.app/?username=pha12thom&theme=discord)
 ![e0a7ad5e-6dee-42cd-ba78-83a5a1f4a65d](https://github.com/Pha12thom/Pha12thom/assets/122834673/bb6eadd7-b14a-488f-b27f-5848dd51333b)
 
-- 🌱 I’m currently learning mathematics and computer science at Maseno university, Software engineering at ALX and acting as ALX-fellowship ambassador.
+- 🌱 I’m currently learning mathematics and computer science at Maseno university, Software engineering at ALX, acting as ALX-fellowship ambassador and Microsoft learn student ambassador.
 [![committers.top badge](https://user-badge.committers.top/kenya_private/pha12thom.svg)](https://user-badge.committers.top/kenya_private/pha12thom)
 - 👯 I’m looking to collaborate on Hackathon challenges and full stack developments. 😊
 - Commonly used languages
