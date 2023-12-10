@@ -11,7 +11,7 @@
 " />
   </a>
   <a href="https://github.com/pha12thom/pha12thom">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
+    ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
   </a>
   <a href="https://stackoverflow.com/users/20857937/geofrey-milugo">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7103882?color=orange&label=reputation&logo=stackoverflow">
