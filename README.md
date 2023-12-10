@@ -2,6 +2,7 @@
 ### Hi there 👋 I'm Milugo Geofrey Ouma😊
 
 ![Visitor Count](https://profile-counter.glitch.me/pha12thom@/count.svg)
+![](https://komarev.com/ghpvc/?username=pha12thom&label=PROFILE+VIEWS)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pha12thom&show_icons=true&theme=black)
 
