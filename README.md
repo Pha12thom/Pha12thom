@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm Milugo Geofrey Ouma😊
+### Hi there 👋 I'm Milugo Geofrey Ouma, I'm a Full stack engineer 😊
 
 ![Visitor Count](https://profile-counter.glitch.me/pha12thom@/count.svg)
 ![](https://komarev.com/ghpvc/?username=pha12thom&label=PROFILE+VIEWS)
