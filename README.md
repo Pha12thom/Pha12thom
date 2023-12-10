@@ -18,8 +18,8 @@
   <a href="https://www.hackerrank.com/geofreymilugo">
     <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-1+-green?color=green&logo=hackerrank">
   </a>
-  <a href="https://Geofrey milugo.medium.com">
-    <img alt="Medium" src="https://img.shields.io/badge/medium-0-lightgrey?color=lightgrey&logo=medium">
+  <a href="https://Geofreymilugo.medium.com">
+    <img alt="Medium" src="https://img.shields.io/badge/medium-1-lightgrey?color=lightgrey&logo=medium">
   </a>
   <a href="https://github.com/pha12thom?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/pha12thom?color=yellow&logo=github">
