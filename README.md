@@ -1,7 +1,6 @@
 
 ### Hi there 👋 I'm Milugo Geofrey Ouma, I'm a Full stack engineer 😊
 
-![Visitor Count](https://profile-counter.glitch.me/pha12thom@/count.svg)
 ![](https://komarev.com/ghpvc/?username=pha12thom&label=PROFILE+VIEWS)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pha12thom&show_icons=true&theme=black)
@@ -44,7 +43,7 @@
 - 🌱 I’m currently learning mathematics and computer science at Maseno university, Software engineering at ALX, acting as ALX-fellowship ambassador and Microsoft learn student ambassador.
 [![committers.top badge](https://user-badge.committers.top/kenya_private/pha12thom.svg)](https://user-badge.committers.top/kenya_private/pha12thom)
 - 👯 I’m looking to collaborate on Hackathon challenges and full stack developments. 😊
-- Commonly used languages
+ Commonly used languages
   ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pha12thom&layout=compact&theme=blue-green)
 - 🤔 I’m looking for help with finding remote  software engineering tasks and other career opportunities to boost my skills.
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pha12thom&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
