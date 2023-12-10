@@ -10,9 +10,8 @@
     <img src="![images (8)](https://github.com/Pha12thom/Pha12thom/assets/122834673/d2042085-ac40-43ba-bf24-8002139892f2)
 " />
   </a>
-  <a href="https://github.com/pha12thom/pha12thom">
-    ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
-  </a>
+  ![](https://komarev.com/ghpvc/?username=pha12thom&style=flat-square)
+  
   <a href="https://stackoverflow.com/users/20857937/geofrey-milugo">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7103882?color=orange&label=reputation&logo=stackoverflow">
   </a>
