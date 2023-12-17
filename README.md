@@ -1,6 +1,13 @@
 
 ### Hi there 👋 I'm Milugo Geofrey Ouma, I'm a Full stack engineer😊
 
+Usage
+Copy-paste this code into your readme and change the links.
+
+Endpoint: api/top-langs?username=anuraghazra
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pha12thom)](https://github.com/pha12thom/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=pha12thom&label=PROFILE+VIEWS)
 [![committers.top badge](https://user-badge.committers.top/kenya_private/pha12thom.svg)](https://user-badge.committers.top/kenya_private/pha12thom)
 
