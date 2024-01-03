@@ -21,13 +21,13 @@
     <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-1+-green?color=green&logo=hackerrank">
   </a>
   <a href="https://medium.com/@geofreymilugo">
-    <img alt="Medium" src="https://img.shields.io/badge/medium-1-lightgrey?color=lightgrey&logo=medium">
+    <img alt="Medium" src="https://img.shields.io/badge/medium-2-lightgrey?color=lightgrey&logo=medium">
   </a>
   <a href="https://github.com/pha12thom?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/pha12thom?color=yellow&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/geofrey-milugo-msu27345">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-700+-blue?color=blue&logo=linkedin">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-770+-blue?color=blue&logo=linkedin">
   </a>
   <a href="https://twitter.com/milugo_g?t=X9CYWafydJ5pZxqOPBBv3g&s=09">
     <img alt="Twitter followers" src="https://img.shields.io/badge/followers-120-blue?color=orange&logo=twitter">
