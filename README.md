@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm Milugo Geofrey Ouma, I'm a passionate stack software engineer😊.
+### Hi there 👋 I'm Milugo Geofrey Ouma, I'm a passionate Full stack software engineer😊.
 
 
 ![](https://komarev.com/ghpvc/?username=pha12thom&label=PROFILE+VIEWS)
