@@ -1,11 +1,11 @@
 
 ### Hi there 👋 I'm Milugo Geofrey Ouma, I'm a passionate Full stack software engineer😊.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pha12thom&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 
 ![](https://komarev.com/ghpvc/?username=pha12thom&label=PROFILE+VIEWS)
 [![committers.top badge](https://user-badge.committers.top/kenya_private/pha12thom.svg)](https://user-badge.committers.top/kenya_private/pha12thom)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pha12thom&show_icons=true&theme=black)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pha12thom&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 -social handles👇🏿
 <p align="left">
