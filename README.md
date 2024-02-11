@@ -27,7 +27,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/pha12thom?color=yellow&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/geofrey-milugo-msu27345">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-870+-blue?color=blue&logo=linkedin">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-890+-blue?color=blue&logo=linkedin">
   </a>
   <a href="https://twitter.com/milugo_g?t=X9CYWafydJ5pZxqOPBBv3g&s=09">
     <img alt="Twitter followers" src="https://img.shields.io/badge/followers-120-blue?color=orange&logo=twitter">
