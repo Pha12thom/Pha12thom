@@ -5,9 +5,9 @@
 [![HackerRank](https://img.shields.io/badge/hackerrank-1+-green?color=green&logo=hackerrank)](https://www.hackerrank.com/geofreymilugo)
 [![Medium](https://img.shields.io/badge/medium-2-lightgrey?color=lightgrey&logo=medium)](https://medium.com/@geofreymilugo)
 [![GitHub Followers](https://img.shields.io/github/followers/pha12thom?color=yellow&logo=github)](https://github.com/pha12thom?tab=followers)
-[![LinkedIn Followers](https://img.shields.io/badge/followers-890+-blue?color=blue&logo=linkedin)](https://www.linkedin.com/in/geofrey-milugo-msu27345)
+[![LinkedIn Followers](https://img.shields.io/badge/followers-+-blue?color=blue&logo=linkedin)](https://www.linkedin.com/in/geofrey-milugo-msu27345)
 [![Twitter Followers](https://img.shields.io/badge/followers-120-blue?color=orange&logo=twitter)](https://twitter.com/milugo_g?t=X9CYWafydJ5pZxqOPBBv3g&s=09)
-[![Facebook Friends](https://img.shields.io/badge/friends-60+-blue?color=yellowgreen&logo=facebook)](https://www.facebook.com/Milugo Geofrey)
+[![Facebook Friends](https://img.shields.io/badge/friends-60+-blue?color=yellowgreen&logo=facebook)](https://www.facebook.com/'Milugo Geofrey')
 
 ---
 ### GitHub Achievement Trophies
