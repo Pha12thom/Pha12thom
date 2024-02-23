@@ -10,6 +10,10 @@
 [![Facebook Friends](https://img.shields.io/badge/friends-60+-blue?color=yellowgreen&logo=facebook)](https://www.facebook.com/Milugo Geofrey)
 
 ---
+### GitHub Achievement Trophies
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pha12thom&theme=discord)
+
+
 
 ### About Me
 - 🔭 I’m currently working on Full stack software engineering, Cloud computing, Microsoft Azure, and generative AI.
