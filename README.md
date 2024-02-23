@@ -14,7 +14,11 @@
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pha12thom&theme=discord)
 
 ---
-<img src="https://raw.githubusercontent.com/Pha12thom/Pha12thom/main/assets/122834673/d2042085-ac40-43ba-bf24-8002139892f2.jpg" width="200">
+<p align="left">
+  <a href="https://github.com/pha12thom/pha12thom">
+    <img src="![images (8)](https://github.com/Pha12thom/Pha12thom/assets/122834673/d2042085-ac40-43ba-bf24-8002139892f2)
+" />
+  </a>
 
 
 ### About Me
