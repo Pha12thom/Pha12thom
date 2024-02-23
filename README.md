@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Milugo Geofrey Ouma, a passionate Full Stack Software and AI Engineer ☁️.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pha12thom&label=PROFILE+VIEWS)
-[![Stack Exchange Reputation](https://img.shields.io/stackexchange/stackoverflow/r/7103882?color=orange&label=reputation&logo=stackoverflow)](https://stackoverflow.com/users/20857937/geofrey-milugo)
+[![Stack Exchange Reputation](https://img.shields.io/stackexchange/stackoverflow/r/7103882?color=purple&label=reputation&logo=stackoverflow)](https://stackoverflow.com/users/20857937/geofrey-milugo)
 [![HackerRank](https://img.shields.io/badge/hackerrank-1+-green?color=green&logo=hackerrank)](https://www.hackerrank.com/geofreymilugo)
 [![Medium](https://img.shields.io/badge/medium-2-lightgrey?color=lightgrey&logo=medium)](https://medium.com/@geofreymilugo)
 [![GitHub Followers](https://img.shields.io/github/followers/pha12thom?color=yellow&logo=github)](https://github.com/pha12thom?tab=followers)
