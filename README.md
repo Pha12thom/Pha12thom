@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Milugo Geofrey Ouma, a passionate Full Stack Software and AI Engineer ☁️.
+# Hi there! 👋 I'm Milugo Geofrey Ouma, a passionate Full Stack Software and AI Engineering student 😊☁️.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pha12thom&label=PROFILE+VIEWS)
 [![Stack Exchange Reputation](https://img.shields.io/stackexchange/stackoverflow/r/7103882?color=purple&label=reputation&logo=stackoverflow)](https://stackoverflow.com/users/20857937/geofrey-milugo)
