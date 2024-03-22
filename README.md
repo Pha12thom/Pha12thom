@@ -23,7 +23,7 @@
 
 ### About Me
 - 🔭 I’m currently working on Full stack software engineering, Cloud computing, Microsoft Azure, and generative AI.
-- 🌱 I’m currently learning mathematics and computer science at Maseno University, Software engineering at ALX, acting as ALX-fellowship ambassador and Microsoft learn student ambassador.
+- 🌱 I’m currently learning mathematics and computer science at Maseno University, Software engineering at ALX, acting as ALX-fellowship ambassador, Moringa school campus ambassador and Microsoft learn student ambassador.
 - 👯 I’m looking to collaborate on Hackathon challenges and full stack developments.
 - 💬 Ask me about Software engineering, cloud computing, Microsoft Azure, ALX, and APIs.
 - 😄 Favorite Word: *chilling code legend.*
