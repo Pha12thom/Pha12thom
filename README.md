@@ -7,7 +7,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/pha12thom?color=yellow&logo=github)](https://github.com/pha12thom?tab=followers)
 [![LinkedIn Followers](https://img.shields.io/badge/followers-1.1k-blue?color=blue&logo=linkedin)](https://www.linkedin.com/in/geofrey-milugo-msu27345)
 [![Twitter Followers](https://img.shields.io/badge/followers-170+-blue?color=orange&logo=twitter)](https://twitter.com/milugo_g?t=X9CYWafydJ5pZxqOPBBv3g&s=09)
-[![Facebook Friends](https://img.shields.io/badge/friends-60+-blue?color=yellowgreen&logo=facebook)](https://www.facebook.com/Isa122p)
+[![Facebook Friends](https://img.shields.io/badge/friends-70+-blue?color=yellowgreen&logo=facebook)](https://www.facebook.com/Isa122p)
 
 ---
 ### My GitHub Achievement Trophies
